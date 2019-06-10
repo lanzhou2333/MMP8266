@@ -13,6 +13,7 @@ MMP8266使用ESP-12E模块来处理传感器信息及通信。
 ## 主要技术&器件
 + ESP-12E模块，集成业界领先的 Tensilica L106 超低功耗 32 位微型 MCU，带有 16 位精简模式，主频支持 80 MHz 和 160 MHz，支持 RTOS，集成 Wi-Fi MAC/ BB/RF/PA/LNA，板载天线。 该模块支持标准的 IEEE802.11 b/g/n 协议，完整的 TCP/IP 协议栈
 + IP5109 3A充电2.4A放电高集成度移动电源SOC
++ DW01 锂电池保护芯片
 + AM2301 高精度单总线数字温湿度传感器
 + MicroPython for esp8266
 + WS2812 RGBLED用于指示设备运行状态
