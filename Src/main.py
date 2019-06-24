@@ -1,0 +1,2 @@
+import woker
+woker.main()
